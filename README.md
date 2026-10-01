@@ -137,5 +137,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & built with 💻 and ☕ by Rhea Patel • Feel free to connect & collaborate!</sub>
+  <sub>Designed & built by Rhea Patel • Feel free to connect & collaborate!</sub>
 </div>

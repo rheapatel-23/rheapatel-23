@@ -137,21 +137,6 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rheapatel-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rhea's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheapatel-23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rheapatel-23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Designed & built with 💻 and ☕ by Rhea Patel • Feel free to connect & collaborate!</sub>
 </div>
